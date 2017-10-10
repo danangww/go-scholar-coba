@@ -1,5 +1,5 @@
 def checkerboard(size)
-	color=["r","b"]
+	color=["[r]","[b]"]
 	str=""
 	if size<=0
 		return str
@@ -12,7 +12,7 @@ def checkerboard(size)
 			end
 
 			for j in 1..size
-				str+="[#{color[start%2]}]"
+				str+=color[start%2]
 				start+=1
 			end
 			str+="\n"
@@ -22,5 +22,5 @@ def checkerboard(size)
 	return str
 end
 
-
-puts checkerboard(7)
+puts checkerboard(5)
+puts checkerboard(8)
