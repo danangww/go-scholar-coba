@@ -8,9 +8,9 @@ def reverse_words(sentence)
 		end
 	end
 
-	puts words.join(" ")
+	return words.join(" ")
 end
 
-reverse_words("Hey fellow scholars")
-reverse_words("This is a test")
-reverse_words("This is another test")
+puts reverse_words("Hey fellow scholars")
+puts reverse_words("This is a test")
+puts reverse_words("This is another test")

@@ -1,0 +1,4 @@
+Presentasi 1: http://slides.com/qblfrb/introduction-to-ruby/fullscreen?token=DMZpOPwT
+Presentasi 2: http://slides.com/qblfrb/assignment-dan-condition/fullscreen?token=aHRN46jI
+Presentasi 3: http://slides.com/qblfrb/loop-dan-iterasi/fullscreen?token=5beu1fkB
+Presentasi 4: http://slides.com/qblfrb/basic-data-typesin-ruby/fullscreen?token=Oxe9Cjku

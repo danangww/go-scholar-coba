@@ -4,14 +4,14 @@ def fav_programming_language
 
 	case language
 	when "Ruby"
-		puts "Ruby is created by Yukihiro Matsumoto"
+		return "Ruby is created by Yukihiro Matsumoto"
 	when "Python"
-		puts "Python is created by Guido van Rossum"
+		return "Python is created by Guido van Rossum"
 	when "Perl"
-		puts "Perl is created by Larry Wall"
+		return "Perl is created by Larry Wall"
 	else
-		puts "Sorry, I don't know that programming language"
+		return "Sorry, I don't know that programming language"
 	end
 end
 
-fav_programming_language()
+puts fav_programming_language()
