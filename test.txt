@@ -1,1 +1,3 @@
-test
+This is a test file. If you can read this from your program, so your program is able to read external file. Congratulations! :)
+This is second line, this can contain many things that you want to put in. Just like this, we don't know what are you talking about but you just write it down to this second line.
+This is third line, for testing purpose. :D
