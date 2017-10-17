@@ -9,3 +9,5 @@ Presentasi 5: http://slides.com/qblfrb/array-in-ruby/fullscreen?token=M2mJ7L3Q#/
 Presentasi 6 : http://slides.com/qblfrb/hash-in-ruby-19/fullscreen?token=i5rv7qdE
 Presentasi 7 : http://slides.com/qblfrb/methods-and-blocks/fullscreen?token=dlQ2VIE1
 Presentasi 8 : http://slides.com/qblfrb/i-o-with-ruby/fullscreen?token=5WPGwkTX#/
+Presentasi 9 :  http://slides.com/qblfrb/class/fullscreen?token=6_2Q1UyG
+Presentasi 10 : https://slide.rabbit-shocker.org/authors/giosakti/201710-self-testing-code-ruby/201710-self-testing-code-ruby.pdf
